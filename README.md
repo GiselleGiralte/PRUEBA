@@ -1,12 +1,4 @@
-# MERCADONA
-mcontexto de lo que trabakjan
+# acerca del proyecto
 
-## PROBLEMA
-el proble ma es quen.........
-
-
-
-## PREGUNTAS PLANTEADAS/
-
-✅ iuefguwhgf
-🔸
+obejtivos
+planetamiento
